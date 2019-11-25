@@ -1,0 +1,18 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  On June 12th, 1987 Ronald Reagan challenged
+  Mikhail Gorbachev to tear down the Berlin Wall,
+</p>
+
+<blockquote>
+  <p>
+    General Secretary Gorbachev, if you seek peace, if 
+    you seek prosperity for the Soviet Union and Eastern
+    Europe, if you seek liberalization: Come here to 
+    this gate! Mr. Gorbachev, open this gate!
+    Mr. Gorbachev, tear down this wall!
+  </p>
+</blockquote>
+
+<!--#include virtual="../footer2.html" -->
