@@ -1,0 +1,16 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+h2 {
+  font-family: "Arial Narrow";
+}
+p {
+  font-family: "Georgia";
+}
+</style>
+
+<h2>I am a level 2 heading.</h2>
+
+<p>I am a paragraph.</p>
+
+<!--#include virtual="../footer2.html" -->

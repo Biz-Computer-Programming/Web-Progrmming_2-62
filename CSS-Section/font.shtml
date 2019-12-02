@@ -1,0 +1,14 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  font: italic bold 14px cursive;
+}
+</style>
+
+<p>
+	Hello...I love you, <br />
+	Won't you tell me your name?
+</p>
+
+<!--#include virtual="../footer2.html" -->

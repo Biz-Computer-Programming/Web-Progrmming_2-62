@@ -1,0 +1,9 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+	<span style="font-size: 18px">18px</span>, 
+	<span style="font-size: 18pt">18pt</span>, 
+	<span style="font-size: 1.8em">1.8em</span>
+</p>
+
+<!--#include virtual="../footer2.html" -->

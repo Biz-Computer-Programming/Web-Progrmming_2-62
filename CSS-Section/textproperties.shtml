@@ -1,0 +1,20 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  text-align: justify;
+  text-decoration: underline;
+  text-indent: 5em;
+}
+strong {
+  text-decoration: blink;
+}
+</style>
+
+<p>
+  Strike me down with all of your hatred and
+  <br /> your journey towards the dark side
+  will be <strong>complete</strong>.
+</p>
+
+<!--#include virtual="../footer2.html" -->

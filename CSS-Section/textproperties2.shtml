@@ -1,0 +1,17 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  letter-spacing: 0.25em;
+  line-height: 1.5em;
+  word-spacing: 3em;
+}
+</style>
+
+<p>
+  Strike me down with all of your hatred and
+  your journey towards the dark side
+  will be <strong>complete</strong>.
+</p>
+
+<!--#include virtual="../footer2.html" -->

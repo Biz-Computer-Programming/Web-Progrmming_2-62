@@ -1,0 +1,10 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  <font face="Comic Sans MS">Welcome to Greasy Joe's!</font>
+  <br />
+  You will <b>never, <i>ever, <u>EVER</u></i></b> beat
+  <font size="+1" color="red">OUR prices</font>.
+</p>
+
+<!--#include virtual="../footer2.html" -->

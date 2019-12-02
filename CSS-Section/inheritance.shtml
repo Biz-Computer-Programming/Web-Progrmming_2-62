@@ -1,0 +1,26 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+body {
+  text-decoration: underline;
+}
+p {
+  background-color: yellow;
+}
+ul {
+  font-style: italic;
+}
+</style>
+
+  <h4>Heading</h4>
+
+  <p>
+    Hello, how are you?
+    I am fine, thanks.
+  </p>
+  
+  <ul>
+    <li>A list with one item</li>
+  </ul>
+
+<!--#include virtual="../footer2.html" -->

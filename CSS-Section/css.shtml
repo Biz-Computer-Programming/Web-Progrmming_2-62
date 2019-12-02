@@ -1,0 +1,12 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  font-family: "Trebuchet MS";
+  color: red;
+}
+</style>
+
+<p>20% off, this weekend only!</p>
+
+<!--#include virtual="../footer2.html" -->

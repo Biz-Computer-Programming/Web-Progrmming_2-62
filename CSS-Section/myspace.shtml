@@ -1,0 +1,14 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+a {
+  text-decoration: none;
+}
+</style>
+
+<p>
+  OMG, check out my page on
+  <a href="http://www.myspace.com/">MySpace</a>, bro!
+</p>
+
+<!--#include virtual="../footer2.html" -->

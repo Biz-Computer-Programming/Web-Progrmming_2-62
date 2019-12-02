@@ -1,0 +1,38 @@
+/* Java Tutorial StyleSheet, by Marty Stepp */
+
+a {
+	color: #151B54;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+body {
+	background-color: #f0f0ff;
+	color: #000000;
+	font-family: "Geneva", sans-serif;
+	font-size: 12pt;
+}
+
+dt {
+	font-weight: bold;
+}
+
+em {
+	font-family: "Arial", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 1.8em;
+	text-align: center;
+}
+
+h2 {
+	background-color:#002244;
+	color: white;
+}
+
+pre {
+	background-color: #ddddff;
+}

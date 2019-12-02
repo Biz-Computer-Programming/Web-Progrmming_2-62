@@ -1,0 +1,14 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  font-weight: bold;
+  font-style: italic;
+}
+</style>
+
+<p>
+	You want the truth? You can't handle the truth!
+</p>
+
+<!--#include virtual="../footer2.html" -->

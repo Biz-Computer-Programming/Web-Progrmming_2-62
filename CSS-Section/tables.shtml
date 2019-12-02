@@ -1,0 +1,55 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+table {
+  caption-side: left;
+  font: 14px "Comic Sans MS";
+}
+
+caption {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+tr {
+  color: blue;
+}
+
+th {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+td {
+  background-color: yellow;
+  text-align: right;
+}
+
+.pinkcolumn {
+    background-color: pink;
+}
+
+.yellowcolumn {
+    background-color: yellow;
+}
+</style>
+
+<table border="1">
+  <caption>Beverage Caffeination</caption>
+  <col class="pinkcolumn"/>
+  <col class="yellowcolumn"/>
+  <tr>
+    <th>Beverage</th>
+    <th>mg of Caffeine</th>
+  </tr>
+  <tr>
+    <td>Brewed Coffee</td>
+    <td>80 - 135</td>
+  </tr>
+  <tr>
+    <td>Brewed Tea</td>
+    <td>60</td>
+  </tr>
+</table>
+
+<!--#include virtual="../footer2.html" -->

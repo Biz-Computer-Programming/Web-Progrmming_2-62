@@ -1,0 +1,28 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+.product {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.facts {
+    background-color: pink;
+}
+
+.fat {
+    font-style: italic;
+}
+</style>
+
+<table border="1">
+  <col class="product"/>
+  <colgroup class="facts">
+    <col /> <col /> <col class="fat" />
+  </colgroup>
+  <tr><th>Product</th><th>Size (oz)</th><th>Caffeine (mg)</th><th>Fat (g)</th></tr>
+  <tr><td>Green Tea</td><td>8</td><td>20</td><td>0</td></tr>
+  <tr><td>Dark chocolate</td><td>2</td><td>20</td><td>19</td></tr>
+</table>
+
+<!--#include virtual="../footer2.html" -->

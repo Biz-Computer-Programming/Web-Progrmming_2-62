@@ -1,0 +1,12 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  color: green;
+  background-color: yellow;
+}
+</style>
+
+<p>Whoa.  I know kung fu.</p>
+
+<!--#include virtual="../footer2.html" -->
