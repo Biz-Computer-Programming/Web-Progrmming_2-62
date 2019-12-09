@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#pageWrapper {
+    background-color: #eeeae4;
+    padding: 16px;
+}
+
+.full-page {
+    min-height: 100vh;
+}
+
+h1 {
+    margin: 0;
+    padding: 0 0 16px 0;
+}
