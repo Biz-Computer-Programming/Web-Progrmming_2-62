@@ -1,0 +1,8 @@
+<video src="" 
+			poster="" 
+			width="400" height="300" 
+			preload
+			controls
+			loop>
+			<p>A video of a puppy playing in the snow</p>
+</video>
